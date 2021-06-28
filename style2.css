@@ -1,0 +1,30 @@
+.x{
+    background-color: lightcoral;
+    width: 400px;height: 400px;
+}
+div{
+background-color: lightgreen;
+padding: 5px 5px 5px 5px;
+margin: 10px 10px 10px 10px;
+border-radius: 30px;
+float: left;
+width: 200px;
+width: 400px;height: 400px;
+}
+#y{
+width: 30px;height: 30px;
+padding: 10px;
+}
+#o{
+    height: 30px;width: 30px;
+    padding: 10px;
+}
+body{
+   padding: 20px ;
+}
+#moh{
+   width: 200px;
+}
+#hgf{
+   width: 200px;height: 200px; 
+}
